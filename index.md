@@ -4,7 +4,7 @@
 
 
 
-<img src="https://www.freeiconspng.com/img/10303?raw=true" width="120" height="80"/>
+<img src="https://www.freeiconspng.com/img/10303" width="120" height="80"/>
 
 ### Courses and certificates:
 
