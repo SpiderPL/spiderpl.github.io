@@ -4,7 +4,7 @@
 
 
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpmtips.net%2FPortals%2F0%2FEasyDNNnews%2F28%2F3565certifications-for-project-managers.jpg&imgrefurl=https%3A%2F%2Fpmtips.net%2Farticle%2Fbest-project-management-certification&tbnid=FPAT_xblJuA2CM&vet=12ahUKEwiP65jZvsTuAhUWsyoKHWvXBNkQMygLegUIARCqAQ..i&docid=ST3yE6Yt8Q_tDM&w=300&h=300&q=certifications&ved=2ahUKEwiP65jZvsTuAhUWsyoKHWvXBNkQMygLegUIARCqAQ" width="120" height="80"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpmtips.net%2FPortals%2F0%2FEasyDNNnews%2F28%2F3565certifications-for-project-managers.jpg&imgrefurl=https%3A%2F%2Fpmtips.net%2Farticle%2Fbest-project-management-certification&tbnid=FPAT_xblJuA2CM&vet=12ahUKEwiP65jZvsTuAhUWsyoKHWvXBNkQMygLegUIARCqAQ..i&docid=ST3yE6Yt8Q_tDM&w=300&h=300&q=certifications&ved=2ahUKEwiP65jZvsTuAhUWsyoKHWvXBNkQMygLegUIARCqAQ?raw=true" width="120" height="80"/>
 
 ### Courses and certificates:
 
