@@ -12,6 +12,8 @@ Courses and certificates:
 University of Washington
 Run by Amazon Professors Emily Fox and Carlos Guestrin:
 
+<a href="https://coursera.org/share/e31165c6e70c00c4bce3da8fb83a9cfb">Machine Learning Foundations: A case Study Approach</a>
+
 Machine Learning Foundations: A case Study Approach
 https://coursera.org/share/e31165c6e70c00c4bce3da8fb83a9cfb
 
