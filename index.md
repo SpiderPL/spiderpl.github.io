@@ -33,15 +33,15 @@ Run by Professor. Charles Severance:
 
 
 Run by Comarch S.A. Krzysztof Czajkowski
-Język SQL - Wstęp do relacyjnych baz danych
-#04.05.2020
-link: do box
+<a href="https://www.dropbox.com/s/59lqj6rx9t8t5cb/Certyfikat_Paj%C4%85k%20A_SQL.pdf?dl=0">Język SQL - Wstęp do relacyjnych baz danych</a>
 
-SQL & PostgreSQL for Beginners
-2 marca 2020 https://www.udemy.com/certificate/UC-754c06b0-fe6b-4966-89b0-24814dd21611/
 
-Deep Learning: Convolutional Neural Networks in Python
-3pazdziernika 2019 https://www.udemy.com/certificate/UC-ULWP84LQ/
+Other:
+
+<a href="https://www.udemy.com/certificate/UC-754c06b0-fe6b-4966-89b0-24814dd21611/">SQL & PostgreSQL for Beginners</a>
+
+<a href="https://www.udemy.com/certificate/UC-ULWP84LQ/">Deep Learning: Convolutional Neural Networks in Python</a>
+
 
 
 [fadsfdafads]
