@@ -55,7 +55,7 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 1
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?raw=true"/>
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png"/>
 
 
 
