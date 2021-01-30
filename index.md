@@ -50,6 +50,18 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 ---
+### Projects
+
+
+
+
+
+
+
+
+
+
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
