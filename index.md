@@ -10,7 +10,7 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/University_of_Washington_signature.svg/1024px-University_of_Washington_signature.svg.png" width="155" height="33"/>
-
+<!-- Image source https://www.wikipedia.org/ -->
 
 Run by Amazon Professors Emily Fox and Carlos Guestrin:
 
@@ -18,7 +18,7 @@ Run by Amazon Professors Emily Fox and Carlos Guestrin:
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/University_of_Michigan_logo.svg/1024px-University_of_Michigan_logo.svg.png" width="160" height="32"/>
-
+<!-- Image source https://www.wikipedia.org/ -->
 
 Run by Professor. Charles Severance:
 
@@ -54,11 +54,11 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 
-1
+[Plant Pathology 2020 - FGVC7]
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
+<!-- Image source https://www.kaggle.com/ -->
 
-
-
+Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in competition.
 
 
 
