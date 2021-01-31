@@ -53,14 +53,16 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 ### Projects
 
 
+#### Parser for patent Office
 
-[Plant Pathology 2020 - FGVC7]
+
+#### Plant Pathology 2020 - FGVC7
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
 <!-- Image source https://www.kaggle.com/ -->
 
-Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in competition.
+Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in kaggle competition.
 
-
+#### Credit 
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
