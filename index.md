@@ -79,6 +79,7 @@ Found features that have the greatest impact on predicting sales in large stores
 #### Credit card fraud detection
 
 #### Jira Script
+Wrote a program that retrieves data from a script to learn Jira. Then after shuffling questions and answers, it prints the questions with answers in the console moreover it gives points after the correct answer. 
 
 #### Heart disease UCI analisys
 Increased the rate of heart disease assessment from 54% to 82% with a standard deviation of 7% based on the weighted average of Precision and Recall.
