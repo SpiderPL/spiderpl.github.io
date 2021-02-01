@@ -54,7 +54,7 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 #### Parser for patent Office
-
+<img src="images/patent_office_1.png?raw=true"/>
 
 #### Plant Pathology 2020 - FGVC7
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
@@ -62,8 +62,23 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in kaggle competition.
 
-#### Credit 
 
+
+#### Big mart sales prediction analysis
+
+#### Gym
+
+#### Credit card fraud detection
+
+#### Heart disease UCI analisys
+
+#### Mushrooms clasifications
+
+#### Lunar lander
+
+#### PGA clustering
+
+#### Jira Script
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
