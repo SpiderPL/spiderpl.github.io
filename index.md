@@ -65,11 +65,16 @@ The program is run from an exe file on windows or mac without installing externa
 Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in kaggle competition.
 
 
-#### Big mart sales prediction analysis
+
 
 #### Lunar lander
+
+
 <img src="images/lunar_lander.gif?raw=true" width="360" height="270"/>
 My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
+
+#### Big mart sales prediction analysis
+Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
 
 #### Credit card fraud detection
 
