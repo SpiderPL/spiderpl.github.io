@@ -55,6 +55,8 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 #### Parser for patent Office
 <img src="images/patent_office_1.png?raw=true"/>
+Up to twice, I speeded up the browsing of archived patents based on the grouping of the most relevant content in one pdf file.
+The program is run from an exe file on windows or mac without installing external libraries. 
 
 #### Plant Pathology 2020 - FGVC7
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
@@ -67,6 +69,7 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 #### Big mart sales prediction analysis
 
 #### Gym
+<img src="images/lunar_lander.gif?raw=true"/>
 
 #### Credit card fraud detection
 
