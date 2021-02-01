@@ -69,7 +69,7 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 #### Big mart sales prediction analysis
 
 #### Gym
-<img src="images/lunar_lander.gif?raw=true"/>
+<img src="images/lunar_lander.gif?raw=true" width="120" height="90"/>
 
 #### Credit card fraud detection
 
