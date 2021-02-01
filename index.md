@@ -81,7 +81,7 @@ Found features that have the greatest impact on predicting sales in large stores
 #### Jira Script
 
 #### Heart disease UCI analisys
-
+Increased the rate of heart disease assessment from 54% to 82% with a standard deviation of 7% based on the weighted average of Precision and Recall.
 #### PGA clustering
 
 #### Mushrooms clasifications
