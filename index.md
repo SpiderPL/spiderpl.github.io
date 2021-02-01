@@ -68,15 +68,11 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 
 
 #### Lunar lander
-
-
 <img src="images/lunar_lander.gif?raw=true" width="360" height="270"/>
 My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
 
 #### Big mart sales prediction analysis
 Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
-
-#### Credit card fraud detection
 
 #### Jira Script
 Wrote a program that retrieves data from a script to learn Jira. Then after shuffling questions and answers, it prints the questions with answers in the console moreover it gives points after the correct answer. 
@@ -84,6 +80,7 @@ Wrote a program that retrieves data from a script to learn Jira. Then after shuf
 #### Heart disease UCI analisys
 Increased the rate of heart disease assessment from 54% to 82% with a standard deviation of 7% based on the weighted average of Precision and Recall.
 #### PGA clustering
+I tested a hypothesis that, based on the number of the farthest bounces, will allow categorizing the golfers' style of play and tested the accuracy of the hypothesis by creating a ranking to compare with the play season ranking
 
 #### Mushrooms clasifications
 
