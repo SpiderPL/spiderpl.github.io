@@ -65,23 +65,30 @@ The program is run from an exe file on windows or mac without installing externa
 Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in kaggle competition.
 
 
-
 #### Big mart sales prediction analysis
 
-#### Gym
+#### Lunar lander
 <img src="images/lunar_lander.gif?raw=true" width="360" height="270"/>
+My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
 
 #### Credit card fraud detection
 
+#### Jira Script
+
 #### Heart disease UCI analisys
-
-#### Mushrooms clasifications
-
-#### Lunar lander
 
 #### PGA clustering
 
-#### Jira Script
+#### Mushrooms clasifications
+
+#### Dog kaggle
+
+#### Gym
+
+
+
+
+
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -93,6 +100,8 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 ---
 
 ### Category Name 2
+<img src="https://pydata.org/warsaw2019/static/images/logo.288981a8dfa8.png?raw=true" width="160" height="32"/>
+PyData Warsaw Conference 2019
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
