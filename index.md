@@ -83,6 +83,8 @@ Increased the rate of heart disease assessment from 54% to 82% with a standard d
 I tested a hypothesis that, based on the number of the farthest bounces, will allow categorizing the golfers' style of play and tested the accuracy of the hypothesis by creating a ranking to compare with the play season ranking
 
 #### Mushrooms clasifications
+Achieved 100% assessment using recall metric. This was possible due to a small number of examples without measurement errors.
+* This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
 
 #### Dog kaggle
 
