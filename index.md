@@ -88,7 +88,8 @@ Achieved 100% assessment using recall metric. This was possible due to a small n
 
 #### Dog kaggle
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/header.png?t=2019-06-20-21-54-47&quot"/>
-
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png"/>
+<!-- Image source https://www.kaggle.com/ -->
 
 #### Gym
 
