@@ -87,6 +87,8 @@ Achieved 100% assessment using recall metric. This was possible due to a small n
 **This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
 
 #### Dog kaggle
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/header.png?t=2019-06-20-21-54-47&quot"/>
+
 
 #### Gym
 
