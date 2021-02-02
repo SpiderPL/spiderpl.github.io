@@ -75,6 +75,9 @@ My team achieved second place in the meeting Deep learning Labs in Warsaw. We we
 Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
 
 #### Jira Script
+<img src="assets/images/structure/structure_screenShot1.jpg" alt="Structure - The Issue Organizer for JIRA">
+<!-- Image source https://almworks.com/ -->
+
 Wrote a program that retrieves data from a script to learn Jira. Then after shuffling questions and answers, it prints the questions with answers in the console moreover it gives points after the correct answer. 
 
 #### Heart disease UCI analisys
