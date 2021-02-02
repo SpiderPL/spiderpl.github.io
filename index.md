@@ -84,7 +84,7 @@ I tested a hypothesis that, based on the number of the farthest bounces, will al
 
 #### Mushrooms clasifications
 Achieved 100% assessment using recall metric. This was possible due to a small number of examples without measurement errors.
-* This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
+**This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
 
 #### Dog kaggle
 
