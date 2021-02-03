@@ -70,28 +70,30 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 <br>
 My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
 
-#### Big mart sales prediction analysis
+<a href="https://github.com/SpiderPL/BigMart-ml/blob/master/BigMart.ipynb">Big mart sales prediction analysis</a>
 <img src="images/1.png" width="360" height="270"/>
 <br>
 Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
 
-#### Jira Script
+<a href="https://github.com/SpiderPL/Questions">Jira Script</a>
 <img src="https://almworks.com/assets/images/structure/structure_screenShot1.jpg?raw=true" width="360" height="270"/>
 <!-- Image source https://almworks.com/ -->
 <br>
 Wrote a program that retrieves data from a script to learn Jira. Then after shuffling questions and answers, it prints the questions with answers in the console moreover it gives points after the correct answer. 
 
-#### Heart disease UCI analisys
+
+<a href="https://github.com/SpiderPL/Heart-disease">Heart disease UCI analisys</a>
 <img src="images/3.png" width="360" height="270"/>
 <br>
 Increased the rate of heart disease assessment from 54% to 82% with a standard deviation of 7% based on the weighted average of Precision and Recall.
 
-#### PGA clustering
+
+<a href="https://github.com/SpiderPL/PGa/blob/master/Pga_clustering_Adam_Paj%C4%85k.ipynb">PGA clustering</a>
 <img src="images/2.png" width="360" height="270"/>
 <br>
 I tested a hypothesis that, based on the number of the farthest bounces, will allow categorizing the golfers' style of play and tested the accuracy of the hypothesis by creating a ranking to compare with the play season ranking
 
-#### Mushrooms clasifications
+<a href="https://github.com/SpiderPL/Mushrooms-Dataset">Mushrooms clasifications</a>
 <img src="images/4.png" width="360" height="270"/>
 <br>
 Achieved 100% assessment using recall metric. This was possible due to a small number of examples without measurement errors.
