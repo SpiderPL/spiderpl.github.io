@@ -57,6 +57,7 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 Up to twice, I speeded up the browsing of archived patents based on the grouping of the most relevant content in one pdf file.
 The program is run from an exe file on windows or mac without installing external libraries. 
 
+<a href="https://www.kaggle.com/c/plant-pathology-2020-fgvc7">Plant Pathology 2020 - FGVC7</a>
 #### Plant Pathology 2020 - FGVC7
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
 <!-- Image source https://www.kaggle.com/ -->
@@ -96,8 +97,7 @@ Achieved 100% assessment using recall metric. This was possible due to a small n
 **This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
 <br>
 
-<a href="https://www.kaggle.com/spiders">Generative Dog Images</a>
-<a style="color:#FFFFFF; text-decoration:none"  href="https://www.kaggle.com/c/generative-dog-images/overview">Generative Dog Images</a>
+<a href="https://www.kaggle.com/c/generative-dog-images">Generative Dog Images</a>
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/header.png?t=2019-06-20-21-54-47&quot"/>
 <!-- Image source https://www.kaggle.com/ -->
 <br>
