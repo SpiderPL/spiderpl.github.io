@@ -54,7 +54,8 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 #### Parser for patent Office
-<img src="images/patent_office_1.png?raw=true"/>\n\n\n\n\n\n
+<img src="images/patent_office_1.png?raw=true"/>
+<br><br><br><br><br>
 Up to twice, I speeded up the browsing of archived patents based on the grouping of the most relevant content in one pdf file.
 The program is run from an exe file on windows or mac without installing external libraries. 
 
