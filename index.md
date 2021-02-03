@@ -72,6 +72,7 @@ Increasing accuracy of predictions by 59,6 % regarding on fast and simple comput
 My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
 
 #### Big mart sales prediction analysis
+<img src="images/1.PNG?raw=true" width="360" height="270"/>
 Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
 
 #### Jira Script
