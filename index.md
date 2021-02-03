@@ -102,36 +102,3 @@ Achieved 100% assessment using recall metric. This was possible due to a small n
 <br>
 I created enough stable neural network system based on GAN, which began to generate low-resolution images of dogs of different breeds. Archived: Top 69% in Kaggle competition.
 
-
-
-
-
-
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-<img src="https://pydata.org/warsaw2019/static/images/logo.288981a8dfa8.png?raw=true" width="160" height="32"/>
-PyData Warsaw Conference 2019
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
