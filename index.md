@@ -1,10 +1,7 @@
-## Portfolio
+# Portfolio
 
 ---
 
-
-
-<img src="https://www.freeiconspng.com/img/10303" width="120" height="80"/>
 
 ### Courses and certificates:
 
@@ -49,6 +46,7 @@ Other:
 Training and webinars about computer network security (e.g. run by Niebezpiecznik.pl)
 
 
+---
 ---
 ### Projects
 <br><br><br>
