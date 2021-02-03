@@ -97,7 +97,7 @@ Achieved 100% assessment using recall metric. This was possible due to a small n
 <br>
 
 
-<a href="https://www.kaggle.com/c/generative-dog-images/overview" style="text-decoration : none; color : #000000;>Generative Dog Images</a>
+<a style="color:black; text-decoration:none"  href="https://www.kaggle.com/c/generative-dog-images/overview">Generative Dog Images</a>
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/header.png?t=2019-06-20-21-54-47&quot"/>
 <!-- Image source https://www.kaggle.com/ -->
 <br>
