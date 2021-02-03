@@ -57,8 +57,8 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 Up to twice, I speeded up the browsing of archived patents based on the grouping of the most relevant content in one pdf file.
 The program is run from an exe file on windows or mac without installing external libraries. 
 
+<br>
 <a href="https://www.kaggle.com/c/plant-pathology-2020-fgvc7">Plant Pathology 2020 - FGVC7</a>
-#### Plant Pathology 2020 - FGVC7
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
 <!-- Image source https://www.kaggle.com/ -->
 <br>
