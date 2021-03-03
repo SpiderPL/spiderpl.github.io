@@ -54,6 +54,7 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 
 <a href="https://www.hackerrank.com/pajak_adam_emil">Hackerrank developing skills </a>
+<br>
 <img src="images/Badges_1.png?raw=true"/>
 <br>
 Solving problems in a wide range of Computer Science domains such as algorithms, machine learning, databases, and others.
