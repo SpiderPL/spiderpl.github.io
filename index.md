@@ -48,7 +48,15 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 
 ---
 ---
-## Projects:
+## Project and exercises:
+<br><br>
+
+
+
+<a href="https://www.hackerrank.com/pajak_adam_emil">Hackerrank developing skills </a>
+<img src="images/Badges_1.png?raw=true"/>
+<br>
+Solving problems in a wide range of Computer Science domains such as algorithms, machine learning, databases, and others.
 <br><br>
 
 #### Parser for patent Office
