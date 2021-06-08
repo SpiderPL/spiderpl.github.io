@@ -6,10 +6,11 @@
 ## Courses and certificates:
 <br>
 
-<img border="0" alt="Hackerrank" src="images/6.png?raw=true" width="500" height="315">
+<img border="0" alt="Hackerrank" src="images/7.png?raw=true" width="155" height="33">
 <!-- Image source https://www.coursera.org/professional-certificates/google-it-automation -->
 
-Run by Google IT Automation with Python Professional:
+Run by Google:
+Getting knowledge to achieve a certificate in progress.
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/University_of_Washington_signature.svg/1024px-University_of_Washington_signature.svg.png" width="155" height="33"/>
