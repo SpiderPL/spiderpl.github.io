@@ -6,7 +6,7 @@
 ## Courses and certificates:
 <br>
 
-<img border="0" alt="Hackerrank" src="images/7.png?raw=true" width="300" height="60">
+<img border="0" alt="Hackerrank" src="images/7.png?raw=true" width="421" height="44">
 <!-- Image source https://www.coursera.org/professional-certificates/google-it-automation -->
 
 Run by Google:
