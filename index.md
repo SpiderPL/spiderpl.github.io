@@ -59,8 +59,8 @@ Training and webinars about computer network security (e.g. run by Niebezpieczni
 ## Project and exercises:
 <br><br>
 
-
-
+<a href="https://www.kaggle.com/certification/badges/spiders/96">Kaggle Gen AI Badge </a>
+<br>
 <a href="https://www.hackerrank.com/pajak_adam_emil">Hackerrank developing skills </a>
 
 
