@@ -79,27 +79,12 @@ Up to twice, I speeded up the browsing of archived patents based on the grouping
 The program is run from an exe file on windows or mac without installing external libraries. 
 
 <br><br>
-<a href="https://www.kaggle.com/c/plant-pathology-2020-fgvc7">Plant Pathology 2020 - FGVC7</a>
-<br>
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/18648/logos/header.png?t=2020-02-20-17-30-35&quot"/>
-<!-- Image source https://www.kaggle.com/ -->
-<br>
-Increasing accuracy of predictions by 59,6 % regarding on fast and simple computer vision model what was the first submission. Archived: Top 41% in kaggle competition.
+<a href="https://github.com/SpiderPL/Fitness-Motion-Analysis">Fitnes Motion Analysis</a>
 <br>
 
-#### Lunar lander
-<img src="images/lunar_lander.gif?raw=true" width="360" height="270"/>
+This prototype application is designed to compare movement patterns for rehabilitation by analyzing the kinematics of two synchronized motion sequences. It captures the reference motion of a therapist and the patient’s performance to highlight differences and support correct exercise execution. While currently intended as an aid for proper movement during training..
 <br>
-My team achieved second place in the meeting Deep learning Labs in Warsaw. We were able to train a model with the highest mean of scores but without the best result. 
 
-<br><br>
-<a href="https://github.com/SpiderPL/BigMart-ml/blob/master/BigMart.ipynb">Big mart sales prediction analysis</a>
-<br>
-<img src="images/1.png" width="360" height="270"/>
-<br>
-Found features that have the greatest impact on predicting sales in large stores. Moreover, I tested effectiveness, several models, excluding less important features
-
-<br><br>
 <a href="https://github.com/SpiderPL/Questions">Jira Script</a>
 <br>
 <img src="https://almworks.com/assets/images/structure/structure_screenShot1.jpg?raw=true" width="360" height="270"/>
@@ -107,34 +92,4 @@ Found features that have the greatest impact on predicting sales in large stores
 <br>
 Wrote a program that retrieves data from a script to learn Jira. Then after shuffling questions and answers, it prints the questions with answers in the console moreover it gives points after the correct answer. 
 
-<br><br>
-<a href="https://github.com/SpiderPL/Heart-disease">Heart disease UCI analisys</a>
-<br>
-<img src="images/3.png" width="360" height="270"/>
-<br>
-Increased the rate of heart disease assessment from 54% to 82% with a standard deviation of 7% based on the weighted average of Precision and Recall.
-
-<br><br>
-<a href="https://github.com/SpiderPL/PGa/blob/master/Pga_clustering_Adam_Paj%C4%85k.ipynb">PGA clustering</a>
-<br>
-<img src="images/2.png" width="360" height="270"/>
-<br>
-I tested a hypothesis that, based on the number of the farthest bounces, will allow categorizing the golfers' style of play and tested the accuracy of the hypothesis by creating a ranking to compare with the play season ranking
-
-<br><br>
-<a href="https://github.com/SpiderPL/Mushrooms-Dataset">Mushrooms clasifications</a>
-<br>
-<img src="images/4.png" width="360" height="270"/>
-<br>
-Achieved 100% assessment using recall metric. This was possible due to a small number of examples without measurement errors.
-**This learned model may only be a suggestion whether the mushroom found in the forest is edible. Also, it is much easier to confuse a feature in a young mushroom.
-
-
-<br><br>
-<a href="https://www.kaggle.com/c/generative-dog-images">Generative Dog Images</a>
-<br>
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/header.png?t=2019-06-20-21-54-47&quot"/>
-<!-- Image source https://www.kaggle.com/ -->
-<br>
-I created enough stable neural network system based on GAN, which began to generate low-resolution images of dogs of different breeds. Archived: Top 69% in Kaggle competition.
 
